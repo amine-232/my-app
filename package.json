@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/amine-232/my-app",
   "name": "my-app",
   "version": "1.0.0",
   "main": "index.ts"
