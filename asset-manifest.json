@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.6298473d.js",
-    "static/js/471.be83cee1.js": "/static/js/471.be83cee1.js",
-    "favicon.ico": "/favicon.ico",
-    "index.html": "/index.html",
-    "favicon-32.png": "/favicon-32.png",
-    "favicon-16.png": "/favicon-16.png",
-    "serve.json": "/serve.json",
-    "manifest.json": "/manifest.json",
-    "main.6298473d.js.map": "/static/js/main.6298473d.js.map",
-    "471.be83cee1.js.map": "/static/js/471.be83cee1.js.map"
+    "main.js": "/amine-232/my-app/static/js/main.6298473d.js",
+    "static/js/471.be83cee1.js": "/amine-232/my-app/static/js/471.be83cee1.js",
+    "favicon.ico": "/amine-232/my-app/favicon.ico",
+    "index.html": "/amine-232/my-app/index.html",
+    "favicon-32.png": "/amine-232/my-app/favicon-32.png",
+    "favicon-16.png": "/amine-232/my-app/favicon-16.png",
+    "serve.json": "/amine-232/my-app/serve.json",
+    "manifest.json": "/amine-232/my-app/manifest.json",
+    "main.6298473d.js.map": "/amine-232/my-app/static/js/main.6298473d.js.map",
+    "471.be83cee1.js.map": "/amine-232/my-app/static/js/471.be83cee1.js.map"
   },
   "entrypoints": [
     "static/js/471.be83cee1.js",
